@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap");
+
+:root {
+  /* Primary */
+  --main-BG-clr: hsl(233, 47%, 7%);
+  --card-BG-clr: hsl(244, 38%, 16%);
+  --accent-clr: hsl(277, 64%, 61%);
+
+  /* Neutral */
+  --white: hsl(0, 0%, 100%);
+  --trans-white: hsla(0, 0%, 100%, 0.75);
+  --slight-trans-white: hsla(0, 0%, 100%, 0.6);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", "Lexend Deca", sans-serif;
+}
